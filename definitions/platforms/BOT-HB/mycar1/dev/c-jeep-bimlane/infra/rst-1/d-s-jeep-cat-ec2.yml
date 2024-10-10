@@ -1,0 +1,9 @@
+Type: ALB
+Name: d-s-jeep-app-ec2
+Tags:
+  - Key: cmdb-app-service-id
+    Value: CMJ1111
+  - Key: app-crew
+    Value: jjeng ang jman
+  - Key: app-squad
+    Value: jjbro man
