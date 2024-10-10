@@ -1,0 +1,9 @@
+Type: ALB
+Name: t-s-car-app-alb
+Tags:
+  - Key: cmdb-app-service-id
+    Value: CMT1234
+  - Key: app-crew
+    Value: teng ang tman
+  - Key: app-squad
+    Value: tbrot man
