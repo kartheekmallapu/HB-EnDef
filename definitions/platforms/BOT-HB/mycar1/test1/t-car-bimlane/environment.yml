@@ -1,0 +1,9 @@
+platformType: AwsArrrr
+id: test-HBP1
+workspaceName: x-y-z-y
+bimlanes:
+  - id: t-car-bimlane
+    description: bilane for caragent api
+    rst-1:
+      - t-s-car-app-alb.yml
+      - t-s-car-app-ecs.yml
