@@ -1,0 +1,10 @@
+platformType: AwsArrrr
+id: dev-HBP1
+workspaceName: x-y-z-y
+bimlanes:
+  - id: c-jeep-bimlane
+    description: bilane for caragent api
+    ictr-1:
+      - d-s-jeep-app-alb.yml
+    rst-1:
+      - d-s-jeep-cat-ec2.yml
