@@ -1,0 +1,9 @@
+Type: ALB
+Name: d-s-car-app-alb
+Tags:
+  - Key: cmdb-app-service-id
+    Value: CM12345
+  - Key: app-crew
+    Value: eng ang man
+  - Key: app-squad
+    Value: bro man
