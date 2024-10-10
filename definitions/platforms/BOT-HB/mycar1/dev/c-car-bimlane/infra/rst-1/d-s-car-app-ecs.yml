@@ -1,0 +1,9 @@
+Type: ALB
+Name: d-s-car-app-ecs
+Tags:
+  - Key: cmdb-app-service-id
+    Value: CM54321
+  - Key: app-crew
+    Value: bing ang lay
+  - Key: app-squad
+    Value: bing lay
